@@ -6,56 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="2c9146a6-de33-4b5f-ad2d-e5901e2a3ff2" name="Changes" comment="Agregar módulo CRUD para gestionar registros de personas y menú interactivo">
       <change beforePath="$PROJECT_DIR$/../ClinicManager" beforeDir="false" afterPath="$PROJECT_DIR$/../ClinicManager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyectos-Repositorios/Voyager" beforeDir="false" afterPath="$PROJECT_DIR$/../Proyectos-Repositorios/Voyager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_Mar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python_Riwi/Python_Fundamentals" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Riwi/Python_Fundamentals" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/.idea/SimulacroEspañol.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/Datos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/Datos/inventario.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/Datos/ventas.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/Funciones/FuncionesArchivos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/Funciones/FuncionesInventario.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/Funciones/FuncionesReportes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/Funciones/FuncionesVentas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacroEspañol/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User_History_Week_2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User_History_Week_2/.idea/User_History_Week_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User_History_Week_2/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User_History_Week_2/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User_History_Week_2/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User_History_Week_2/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User_History_Week_2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User_History_Week_2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User_History_Week_2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User_History_Week_2/Function/Add.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User_History_Week_2/Function/Calculate_Statistics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User_History_Week_2/Function/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User_History_Week_2/Stock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Voyager" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proyecto_inventario_csv/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proyecto_inventario_csv/DiagramaFlujo/DiagramaHistoriaUsuario3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proyecto_inventario_csv/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proyecto_inventario_csv/datos/inventario.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proyecto_inventario_csv/modulos/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proyecto_inventario_csv/modulos/archivos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proyecto_inventario_csv/modulos/servicios.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simulacro-inventario/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simulacro-inventario/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simulacro-inventario/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simulacro-inventario/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simulacro-inventario/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simulacro-inventario/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simulacro-inventario/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simulacro-inventario/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simulacro-inventario/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -78,12 +34,12 @@
     &quot;assignee&quot;: &quot;maryhug&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/maryhug/Us-Week3-Python.git",
-    "accountId": "7b0d8ccc-46ff-441d-aa50-4b89be6ed26c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/maryhug/Us-Week3-Python.git&quot;,
+    &quot;accountId&quot;: &quot;7b0d8ccc-46ff-441d-aa50-4b89be6ed26c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -112,7 +68,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/maryh/PycharmProjects/Python_Mar"
+    "last_opened_file_path": "C:/Users/maryh/PycharmProjects/Python-Maryhug"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -121,28 +77,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.app">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="Python-Maryhug" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Maryhug" />
       <option name="ENV_FILES" value="" />
@@ -185,86 +119,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="Python-Maryhug" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="Python-Maryhug" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="Python-Maryhug" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="Python-Maryhug" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="Python-Maryhug" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
     <recent_temporary>
